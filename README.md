@@ -26,7 +26,7 @@ docker run --rm -v /root/pdf:/app/pdf -v /root/font:/app/custom-font iseason/doc
 when you want to apply `custom font`. please rename your font file to `font.ttf` `font.ttc` or `font.otf`.  
 then place it into {custom font path} which path in your local system
 
-your pad will be save at {pdf path} 
+your pdf file will be save at {pdf path} 
 
 ## options
 
