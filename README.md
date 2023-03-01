@@ -1,7 +1,7 @@
 
 >  this project was modify by https://github.com/signcl/docusaurus-prince-pdf
 
-[Docker Hub](https://hub.docker.com/repository/docker/iseason/docusaurus-to-pdf/general)
+[Docker Hub](https://hub.docker.com/r/iseason/docusaurus-to-pdf)
 
 ## preview
 
