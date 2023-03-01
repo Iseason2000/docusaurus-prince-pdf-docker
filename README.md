@@ -5,7 +5,7 @@
 
 ## preview
 
-![](https://pic.imgdb.cn/item/63ff5a0ef144a01007318e1b.png)
+![QQ截图20230301215623](https://user-images.githubusercontent.com/65019366/222173525-efa2500a-6083-4316-a7f2-1d4f1e4fb32b.png)
 
 ## Usage
 
