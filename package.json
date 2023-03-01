@@ -1,0 +1,28 @@
+{
+  "name": "docusaurus-to-pdf",
+  "version": "1.0.0",
+  "description": "Extract rendered data from Docusaurus and generate PDF, the hard way",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "repository": "https://github.com/iseason2000/docusaurus-to-pdf",
+  "author": "Iseason",
+  "license": "MIT",
+  "scripts": {
+    "test": "node index.js -u https://docusaurus.io/docs/",
+    "release": "npx release-it"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "release-it": {
+    "github": {
+      "release": true
+    }
+  },
+  "dependencies": {
+    "got": "^12.0.4",
+    "jsdom": "^20.0.0",
+    "yargs": "^17.0.1"
+  }
+}
