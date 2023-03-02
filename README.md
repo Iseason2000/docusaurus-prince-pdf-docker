@@ -1,5 +1,5 @@
 
->  this project was modify by https://github.com/signcl/docusaurus-prince-pdf
+>  This project is a modification of https://github.com/signcl/docusaurus-prince-pdf
 
 [Docker Hub](https://hub.docker.com/r/iseason/docusaurus-to-pdf)
 
